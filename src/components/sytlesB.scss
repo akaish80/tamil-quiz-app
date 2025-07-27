@@ -1,0 +1,24 @@
+// filepath: /c:/Users/mithu/Documents/Arun/Tamil/Tamil-quiz-react/tamil-quiz-app/src/styles/stylesB.scss
+.quiz-container {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.quiz-result {
+    color: #00796b;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.answer-section button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.answer-section button.selected {
+    background-color: #80cbc4;
+}
